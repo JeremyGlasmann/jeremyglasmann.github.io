@@ -32,3 +32,7 @@ nav a {
 nav {
     background-color: #6b9080;
 }
+
+nav a.navbar-brand{
+    font-size: 18px;
+}
