@@ -25,8 +25,8 @@ a {
 nav a {
     text-decoration: none;
     color: #f5f5f5;
-    padding: 2px 2px 2px 2px;
-    margin: 2px 2px 2px 2px;
+    padding: 4px 4px 4px 4px;
+    margin: 4px 4px 4px 4px;
 }
 
 nav {
@@ -35,4 +35,6 @@ nav {
 
 nav a.navbar-brand{
     font-size: 30px;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
 }
