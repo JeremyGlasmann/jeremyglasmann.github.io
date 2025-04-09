@@ -50,9 +50,11 @@ h3 {
 a.btn {
     background-color: #DB9B7A;
     border-block-color: #DB9B7A;
+    outline: none;
+    box-shadow: none;
 }
 
-a.btn:hover {
-    background-color: #D99675;
-    border-block-color: #D99675;
-}
+    a.btn:hover {
+        background-color: #D78D69;
+        border-block-color: #D78D69;
+    }
