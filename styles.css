@@ -54,7 +54,12 @@ a.btn {
     box-shadow: none;
 }
 
-    a.btn:hover {
-        background-color: #D78D69;
-        border-block-color: #D78D69;
-    }
+a.btn:hover {
+    background-color: #D78D69;
+    border-block-color: #D78D69;
+}
+
+a.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
