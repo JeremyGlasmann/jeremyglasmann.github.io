@@ -53,6 +53,7 @@ a.btn.btn-primary {
   color: white;
   box-shadow: none !important;
   outline: none !important;
+  margin: 0px 0px 5px 0px;
 }
 
 a.btn.btn-primary:hover {
