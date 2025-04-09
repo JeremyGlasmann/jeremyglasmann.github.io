@@ -48,19 +48,25 @@ h3 {
 }
 
 a.btn.btn-primary {
-    background-color: #DB9B7A;
-    border-block-color: #DB9B7A;
-    outline: none;
-    box-shadow: none;
+  background-color: #DB9B7A;
+  border-color: #DB9B7A;
+  color: white;
+  box-shadow: none !important;
+  outline: none !important;
 }
 
 a.btn.btn-primary:hover {
-    background-color: #D78D69;
-    border-block-color: #D78D69;
+  background-color: #D78D69;
+  border-color: #D78D69;
+  color: white;
+  box-shadow: none !important;
+  outline: none !important;
 }
 
 a.btn.btn-primary:focus,
-a.btn.btn-primary:focus-visible{
-    outline: none !important;
-    box-shadow: none !important;
+a.btn.btn-primary:focus-visible,
+a.btn.btn-primary:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: #D78D69 !important;
 }
